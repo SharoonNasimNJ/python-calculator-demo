@@ -12,7 +12,7 @@ def divide(a, b):
 		raise ValueError("Cannot divide by zero")
 	return a / b
 def power(base, exponent):
-	return base exponent
+	return base**exponent
 
 if __name__ == "__main__":
 	print("Simple Calculator")
