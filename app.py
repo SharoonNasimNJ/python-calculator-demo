@@ -20,3 +20,5 @@ if __name__ == "__main__":
 	print(f"10 - 4 = {subtract(10, 4)}")
 	print(f"5 * 6 = {multiply(5, 6)}")
 	print(f"20 / 4 = {divide(20, 4)}")
+	print(f"20 ^ 4 = {power(20, 4)}")
+	print("--------------------------")
